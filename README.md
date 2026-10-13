@@ -1,4 +1,4 @@
 # 安心播放
 
-Android v0.2.9 預覽版下載：[AnxinPlayer.apk](./AnxinPlayer.apk)
+Android v0.3.0 預覽版下載：[AnxinPlayer.apk](./AnxinPlayer.apk)
 安心播放 Android 預覽版下載
